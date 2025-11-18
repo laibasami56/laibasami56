@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on: Beginner-friendly web projects or assignments
 
-📫 How to reach me: laibasami56@gmail.com
+📫 How to reach me: laibasami9876@gmail.com
  (or your preferred email)
  
 😄 Pronouns: She/Her
