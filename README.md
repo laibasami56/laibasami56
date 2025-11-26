@@ -29,6 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laibasami56" alt="laibasami56" /></p>
 
-<br clear="both">
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7__Y2xP50ls2rzLyPj_rcYmfdFI4ZrgaeFg&s" alt="Snake animation" />
