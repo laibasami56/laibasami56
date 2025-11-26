@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laibasami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laibasami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laibasami56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laibasami56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibasami56&show_icons=true&locale=en" alt="laibasami56" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laibasami56" alt="laibasami56" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laibasami56&" alt="laibasami56" /></p>
+
 
